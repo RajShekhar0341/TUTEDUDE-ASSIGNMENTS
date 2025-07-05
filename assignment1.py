@@ -27,4 +27,4 @@ f_name = str(input("enter your first name"))
 l_name = str(input("enter your last name"))
 
 full_name = f_name + " " + l_name
-print(f"Hello good moring {full_name}")
+print(f"Hello, {full_name} ! welcome to python programe. ")
