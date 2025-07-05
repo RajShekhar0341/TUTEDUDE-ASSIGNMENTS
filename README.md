@@ -1,2 +1,0 @@
-# TUTEDUDE-ASSIGNMENTS
-Assignments uploading
